@@ -4,6 +4,5 @@
 ## Version: 1.0-ALPHA
 ## Notes: Creates a tab which filters gems in the Auctionhouse by era, quality, and color.
 ## eMail: nilso@enosis.net
-## RequiredDeps: Blizzard_AuctionUI
 ## DefaultState: Disabled
 npGemViewer.lua
